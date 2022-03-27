@@ -1,0 +1,26 @@
+{
+  "subjects": [
+    {
+      "type": "subject",
+      "name": "Maths",
+      "topics": [
+        {
+          "type": "topic",
+          "name": "Fractions",
+          "lessons": [
+            {
+              "type": "lesson",
+              "name": "Adding And Subtracting Fractions",
+              "activities": [
+                {
+                  "type": "instruction activity",
+                  "text": "Adding fractions with the same denominators is as adding the numerators and leaving the denominators as they are. \nFor example \n\n1 / 4 + 2 / 4 = 3 / 4\n\nHere we added the 1 and the 2 to give us a numerator of 3, but kept the denominator the same."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
